@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todire/static/css/main.adf92b67.css",
+    "main.js": "/Todire/static/js/main.6d0d4df0.js",
+    "static/js/787.5e141d9e.chunk.js": "/Todire/static/js/787.5e141d9e.chunk.js",
+    "index.html": "/Todire/index.html",
+    "main.adf92b67.css.map": "/Todire/static/css/main.adf92b67.css.map",
+    "main.6d0d4df0.js.map": "/Todire/static/js/main.6d0d4df0.js.map",
+    "787.5e141d9e.chunk.js.map": "/Todire/static/js/787.5e141d9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf92b67.css",
+    "static/js/main.6d0d4df0.js"
+  ]
+}
